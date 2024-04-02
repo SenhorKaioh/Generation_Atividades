@@ -1,6 +1,6 @@
 import { Stack } from "./Stack";
 
-const leia = require('readline-sync');
+import leia from 'readline-sync';
  function main(){
 let cod :number;
 const pilhaLivros = new Stack();

@@ -1,6 +1,6 @@
 import { Queue } from "./Queue";
 
-const leia = require('readline-sync');
+import leia from 'readline-sync';
 
 export function main(){
 
